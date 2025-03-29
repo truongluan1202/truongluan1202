@@ -1,58 +1,88 @@
-<!-- Dynamic README for GitHub Profile -->
-# Hi there, I'm **truongluan1202** 👋
+<br clear="both">
 
-Welcome to my GitHub profile! I’m a passionate developer working on innovative projects. Enjoy the dynamic elements below that update automatically and add a bit of movement!
+<h2 align="left">Hi 👋! My name is Luan Tran</h2>
 
-<!-- Animated Banner GIF (you can replace this with your own) -->
-![Animated Banner](https://media.giphy.com/media/3o7btPcZtBq67s4LyA/giphy.gif)
+###
 
-## 🚀 About Me
+<br clear="both">
 
-- 🔭 Currently working on **CapstoneBara** – a mental health support platform.
-- 🌱 Exploring technologies like **Python**, **JavaScript**, **TypeScript**, **C++**, and more.
-- 📫 Reach me via [Email](mailto:your.email@example.com) or connect on [LinkedIn](#).
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=truongluan1202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongluan1202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 📊 GitHub Stats
+###
 
-<!-- Live GitHub stats that update automatically -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=truongluan1202&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=truongluan1202&layout=compact&theme=radical)
+<br clear="both">
 
-## 🔥 Activity Graph
+<img align="right" height="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4czBpcjVkcW43MjM4NWh2eWlkYWZmbWFnamU5dmtraDdkMXlzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 
-<!-- A dynamic activity graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=truongluan1202&theme=react-dark)
+###
 
-## 🎯 Featured Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+</div>
 
-- **[CapstoneBara](https://github.com/truongluan1202/CapstoneBara)**  
-  _A mental health support platform built with Python. [MIT License](https://opensource.org/licenses/MIT)_
+###
 
-- **[AI-Digit-Recognition-Application](https://github.com/truongluan1202/AI-Digit-Recognition-Application)**  
-  _A C++ project applying AI techniques for digit recognition._
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+</div>
 
-- **[crewAI](https://github.com/truongluan1202/crewAI)**  
-  _A Python project exploring AI-powered applications._
+###
 
-- **[ChatGPT-Assistant](https://github.com/truongluan1202/ChatGPT-Assistant)**  
-  _A ChatGPT-based assistant (forked from [PierXuY/ChatGPT-Assistant](https://github.com/PierXuY/ChatGPT-Assistant))._
+<br clear="both">
 
-## 🎨 Animated SVG Example
+<img src="https://raw.githubusercontent.com/truongluan1202/truongluan1202/output/snake.svg" alt="Snake animation" />
 
-<!-- A simple animated SVG using SMIL -->
-<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="20" width="300" height="60" fill="#61dafb">
-    <animate attributeName="x" from="-300" to="300" dur="5s" repeatCount="indefinite" />
-  </rect>
-  <text x="150" y="55" font-size="20" text-anchor="middle" fill="#fff">Dynamic Move!</text>
-</svg>
-
-## 🌐 Connect with Me
-
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Blog](#)
-
----
-
-*This README is powered by dynamic badges, animated GIFs, and SVG animations to bring your GitHub profile to life!*
+###
