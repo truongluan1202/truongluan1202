@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4czBpcjVkcW43MjM4NWh2eWlkYWZmbWFnamU5dmtraDdkMXlzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4czBpcjVkcW43MjM4NWh2eWlkYWZmbWFnamU5dmtraDdkMXlzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=truongluan1202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=truongluan1202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
