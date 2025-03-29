@@ -1,6 +1,12 @@
+<h2 align="center">Hi 👋! My name is Luan Tran</h2>
+
+###
+
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Luan Tran</h2>
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4czBpcjVkcW43MjM4NWh2eWlkYWZmbWFnamU5dmtraDdkMXlzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+</div>
 
 ###
 
@@ -14,10 +20,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmh4czBpcjVkcW43MjM4NWh2eWlkYWZmbWFnamU5dmtraDdkMXlzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -70,6 +72,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
