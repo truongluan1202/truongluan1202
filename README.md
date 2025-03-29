@@ -1,49 +1,58 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- Dynamic README for GitHub Profile -->
+# Hi there, I'm **truongluan1202** 👋
 
-###
+Welcome to my GitHub profile! I’m a passionate developer working on innovative projects. Enjoy the dynamic elements below that update automatically and add a bit of movement!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- Animated Banner GIF (you can replace this with your own) -->
+![Animated Banner](https://media.giphy.com/media/3o7btPcZtBq67s4LyA/giphy.gif)
 
-###
+## 🚀 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🔭 Currently working on **CapstoneBara** – a mental health support platform.
+- 🌱 Exploring technologies like **Python**, **JavaScript**, **TypeScript**, **C++**, and more.
+- 📫 Reach me via [Email](mailto:your.email@example.com) or connect on [LinkedIn](#).
 
-###
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<!-- Live GitHub stats that update automatically -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=truongluan1202&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=truongluan1202&layout=compact&theme=radical)
 
-###
+## 🔥 Activity Graph
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<!-- A dynamic activity graph -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=truongluan1202&theme=react-dark)
 
-###
+## 🎯 Featured Projects
 
-<br clear="both">
+- **[CapstoneBara](https://github.com/truongluan1202/CapstoneBara)**  
+  _A mental health support platform built with Python. [MIT License](https://opensource.org/licenses/MIT)_
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- **[AI-Digit-Recognition-Application](https://github.com/truongluan1202/AI-Digit-Recognition-Application)**  
+  _A C++ project applying AI techniques for digit recognition._
 
-###
+- **[crewAI](https://github.com/truongluan1202/crewAI)**  
+  _A Python project exploring AI-powered applications._
+
+- **[ChatGPT-Assistant](https://github.com/truongluan1202/ChatGPT-Assistant)**  
+  _A ChatGPT-based assistant (forked from [PierXuY/ChatGPT-Assistant](https://github.com/PierXuY/ChatGPT-Assistant))._
+
+## 🎨 Animated SVG Example
+
+<!-- A simple animated SVG using SMIL -->
+<svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="20" width="300" height="60" fill="#61dafb">
+    <animate attributeName="x" from="-300" to="300" dur="5s" repeatCount="indefinite" />
+  </rect>
+  <text x="150" y="55" font-size="20" text-anchor="middle" fill="#fff">Dynamic Move!</text>
+</svg>
+
+## 🌐 Connect with Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Blog](#)
+
+---
+
+*This README is powered by dynamic badges, animated GIFs, and SVG animations to bring your GitHub profile to life!*
