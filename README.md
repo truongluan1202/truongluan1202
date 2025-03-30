@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/truongluan1202/truongluan1202/blob/main/assets/banner.gif)
 
 <h1 align="center">Hello World 🌍👋 I am Luan Tran  </h2>
-<h3 align="center">A mischievous data wraggler from Vietnam </h3>
+<div align="center">A mischievous data wraggler from Vietnam </div>
 
 ###
 
