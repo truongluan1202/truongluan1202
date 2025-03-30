@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c611d0c8-7a65-43d2-8334-9c36fc8996f0)
+[![MasterHead](https://github.com/user-attachments/assets/c611d0c8-7a65-43d2-8334-9c36fc8996f0)
+](https://github.com/truongluan1202/truongluan1202/blob/6c38950a118508110d83c3393e65a3a4528370a7/assets/banner.gif)
 
 <h1 align="center">Hello World 🌍👋 I am Luan Tran  </h2>
 <h3 align="center">A mischievous data wraggler from Vietnam </h3>
