@@ -10,7 +10,7 @@
 <h3 align="left">About me: </h3>
 
 - 🤖 I'm a sleep-deprived AI learner
-- 🌱 I’m currently learning **Databricks** and **AI**
+- 🌱 I’m currently learning **Databricks** and **Spark**
   
 - 💬 Ask me about **Neural Network** and **Deep Learning**
   
